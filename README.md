@@ -6,6 +6,6 @@ This error:
 <h3>To run this command you need to be root and run the follow command:</h3>
 
 ```md
-git clone https://github.com/isacS4nxx/vlc_problem; cd vlc_problem && chmod +x vlc_problem && bash vlc_problem
+git clone https://github.com/isacS4nxx/vlc_problem; cd vlc_problem && chmod +x vlc_problem.sh && bash vlc_problem
 ```
 ```
